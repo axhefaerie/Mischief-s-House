@@ -1,0 +1,4 @@
+Game : (room:4)[R 64] Warning: blocking Say call during fade-out.
+Game : (room:4)[R 64] Wait() was used in Player Enters Screen - use Enters Screen After Fadein instead
+Game : (room:4)[R 64] Warning: blocking Say call during fade-out.
+Game : (room:4)[R 64] Wait() was used in Player Enters Screen - use Enters Screen After Fadein instead
